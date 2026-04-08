@@ -1,0 +1,13 @@
+{
+  "name": "midscene-web-capture",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture": "node ./scripts/capture_web_pages.mjs"
+  },
+  "dependencies": {
+    "@midscene/web": "^1.7.0",
+    "dotenv": "^16.6.1"
+  }
+}

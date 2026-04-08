@@ -1,0 +1,7 @@
+node_modules/
+screenshot/
+midscene_run/
+.env
+__pycache__/
+*.pyc
+
