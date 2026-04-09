@@ -4,7 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "capture": "node ./scripts/capture_web_pages.mjs"
+    "capture": "node ./scripts/capture_web_pages.mjs",
+    "bridge:run": "node ./scripts/midscene_bridge_runner.mjs"
   },
   "dependencies": {
     "@midscene/web": "^1.7.0",
